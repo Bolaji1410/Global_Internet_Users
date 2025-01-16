@@ -1,18 +1,16 @@
-Key Insights
+# Key Insights
 
-Global Internet Users Trends
-
+Global Internet Users Trends:
 Internet usage has shown a consistent increase since the early 2000s, reaching 97 billion users worldwide by 2020.
-Broadband Subscriptions by Top 6 Countries
 
+# Broadband Subscriptions by Top 6 Countries
 Leaders in broadband access:
 Monaco leads with 765 subscriptions, followed by:
 South Korea (674), Liechtenstein (670), Denmark (670), and Switzerland (664).
 Indicates better fixed-line internet infrastructure in these nations.
  
 
-Cellular Subscriptions by Top 6 Countries
-
+# Cellular Subscriptions by Top 6 Countries
 Top countries with high cellular subscriptions:
 Macao: 4.7K subscriptions.
 Hong Kong: 4.2K.
@@ -20,8 +18,7 @@ United Arab Emirates, Italy, Luxembourg, Finland, and Cayman Islands hover aroun
 These countries indicate high mobile penetration rates, often correlating with urbanization and tech adoption.
 Top 10 Countries with Internet Access Percentage
 
-Countries with the highest percentage of users having access to the internet:
-
+# Countries with the highest percentage of users having access to the internet:
 Iceland: 2.00K
 Norway: 1.95K
 Sweden: 1.90K
@@ -33,22 +30,20 @@ Switzerland: 1.74K
 South Korea: 1.72K
 Luxembourg: 1.70K
 
-Global Internet Users by Country
-
+#Global Internet Users by Country
 China leads with 9 billion internet users.
 North America follows with 7 billion users.
 United States and India account for 5 billion and 3 billion users, respectively.
 Other contributors include Brazil, Japan, and smaller nations.
 
-Key Metrics
-
+# Key Metrics
 Total Internet Users: 97 billion
 Percentage of Internet Users: 151.13K
 Number of Countries Analyzed: 229
 Total Cellular Subscriptions: 354.59K
 Total Broadband Subscriptions: 39.38K
 
-Recommendations
+# Recommendations
 
 Enhance Broadband Accessibility:
 Target Emerging Markets: Focus on improving broadband infrastructure in countries with growing internet penetration but lower fixed-line adoption.
