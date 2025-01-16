@@ -1,3 +1,5 @@
+![Internet Users DB](https://github.com/user-attachments/assets/333a2218-8d76-486b-bf5d-bdfbbc345da4)
+
 # Key Insights
 
 - Global Internet Users Trends:
