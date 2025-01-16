@@ -33,7 +33,7 @@ Countries with the highest percentage of users having access to the internet:
 - South Korea: 1.72K
 - Luxembourg: 1.70K
 
-#Global Internet Users by Country
+# Global Internet Users by Country
 - China leads with 9 billion internet users.
 - North America follows with 7 billion users.
 - United States and India account for 5 billion and 3 billion users, respectively.
