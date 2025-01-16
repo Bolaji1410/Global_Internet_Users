@@ -19,7 +19,7 @@ Top countries with high cellular subscriptions:
 
 These countries indicate high mobile penetration rates, often correlating with urbanization and tech adoption.
 
-#Top 10 Countries with Internet Access Percentage
+# Top 10 Countries with Internet Access Percentage
 
 Countries with the highest percentage of users having access to the internet:
 - Iceland: 2.00K
